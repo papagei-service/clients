@@ -1,4 +1,4 @@
-package com.yaroslavzghoba.papagei
+package com.zghoba.papagei
 
 import androidx.compose.ui.window.ComposeUIViewController
 

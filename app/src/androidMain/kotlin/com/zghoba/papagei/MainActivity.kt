@@ -1,4 +1,4 @@
-package com.yaroslavzghoba.papagei
+package com.zghoba.papagei
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
